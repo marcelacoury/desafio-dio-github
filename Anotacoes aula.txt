@@ -1,0 +1,5 @@
+Passo 1: Baixar git bash
+Passo 2: Git clone no repositório
+Passo 3: Editar arquivos
+Passo 4: Verificar status do repositório
+Passo 5: Adicionar e comitar as mudanças
